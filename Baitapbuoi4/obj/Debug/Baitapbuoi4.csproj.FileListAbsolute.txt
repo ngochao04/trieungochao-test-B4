@@ -1,0 +1,13 @@
+C:\Users\LENOVO\Desktop\test\Baitapbuoi4\obj\Debug\Baitapbuoi4.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\test\Baitapbuoi4\obj\Debug\Baitapbuoi4.DirectorForm.resources
+C:\Users\LENOVO\Desktop\test\Baitapbuoi4\obj\Debug\Baitapbuoi4.Form1.resources
+C:\Users\LENOVO\Desktop\test\Baitapbuoi4\obj\Debug\Baitapbuoi4.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\test\Baitapbuoi4\obj\Debug\Baitapbuoi4.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\test\Baitapbuoi4\obj\Debug\Baitapbuoi4.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\test\Baitapbuoi4\bin\Debug\Database1.mdf
+C:\Users\LENOVO\Desktop\test\Baitapbuoi4\bin\Debug\Database1_log.ldf
+C:\Users\LENOVO\Desktop\test\Baitapbuoi4\bin\Debug\Baitapbuoi4.exe.config
+C:\Users\LENOVO\Desktop\test\Baitapbuoi4\bin\Debug\Baitapbuoi4.exe
+C:\Users\LENOVO\Desktop\test\Baitapbuoi4\bin\Debug\Baitapbuoi4.pdb
+C:\Users\LENOVO\Desktop\test\Baitapbuoi4\obj\Debug\Baitapbuoi4.exe
+C:\Users\LENOVO\Desktop\test\Baitapbuoi4\obj\Debug\Baitapbuoi4.pdb
